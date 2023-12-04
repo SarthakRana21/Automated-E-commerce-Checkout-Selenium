@@ -1,4 +1,4 @@
-# Automated-E-commerce-Checkout-Tester
+# Automated-E-commerce-Checkout-Selenium
 This project contains a Selenium WebDriver script written in Java for automating the checkout process on an e-commerce website. The script covers various functionalities to streamline the user journey, including login, button verification, navigation, billing details input, payment method selection, and broken link detection.
 
 
