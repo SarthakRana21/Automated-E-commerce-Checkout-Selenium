@@ -35,7 +35,8 @@ This project contains a Selenium WebDriver script written in Java for automating
         - Used for checking the status of hyperlinks.
 
 
-**Other Libraries:**
-**guava-jre.jar
-failsafe.jar
-selenium-java**
+#### Other Libraries:
+
+- **guava-jre.jar**
+- **failsafe.jar**
+- **selenium-java**
