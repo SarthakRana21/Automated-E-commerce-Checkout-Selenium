@@ -20,10 +20,6 @@ This project contains a Selenium WebDriver script written in Java for automating
 **Java Standard Libraries:** Used for general-purpose functionality.
 **HttpURLConnection:** Employed for checking the status of hyperlinks.
 
-**Getting Started:**
-Clone the repository: git clone https://github.com/your-username/automated-checkout-tester.git
-Set up the necessary dependencies and WebDriver.
-Run the script: java checkout.java
 
 **Other Libraries:**
 **guava-jre.jar
